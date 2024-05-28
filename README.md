@@ -1,1 +1,3 @@
 # hackerrank
+
+.DS_Store
