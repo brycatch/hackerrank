@@ -19,3 +19,4 @@ function birthday(chocolate: number[], day: number, length: number): number {
 console.log({ birthday: birthday([1, 2, 1, 3, 2], 3, 2) });
 console.log({ birthday: birthday([1, 1, 1, 1, 1], 3, 2) });
 console.log({ birthday: birthday([4], 4, 1) });
+console.log({ birthday: birthday([4], 4, 1) });
